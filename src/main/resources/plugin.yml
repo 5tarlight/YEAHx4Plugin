@@ -1,0 +1,8 @@
+name: YEAHx4
+version: ${project.version}
+main: com.github.yeahx4.YeahPlugin
+api-version: 1.15
+prefix: YEAHx4
+authors: [ YEAHx4 ]
+description: YEAHx4 Plugin
+website: https://github.com/5tarlight
