@@ -6,3 +6,7 @@ prefix: YEAHx4
 authors: [ YEAHx4 ]
 description: YEAHx4 Plugin
 website: https://github.com/5tarlight
+
+commands:
+  y:
+    description: displayer players y location
