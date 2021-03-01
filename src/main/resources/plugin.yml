@@ -9,4 +9,7 @@ website: https://github.com/5tarlight
 
 commands:
   y:
-    description: displayer players y location
+    description: display players y location
+
+  intro:
+    description: help message with some description of this server
