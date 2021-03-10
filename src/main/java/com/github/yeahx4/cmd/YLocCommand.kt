@@ -11,7 +11,7 @@ class YLocCommand : CommandExecutor {
       sender.sendMessage("Y : ${sender.location.y}")
       return true
     } else {
-      sender.sendMessage("On players can use this comand")
+      sender.sendMessage("Only players can use this comand")
       return false
     }
   }
